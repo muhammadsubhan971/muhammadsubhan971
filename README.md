@@ -10,13 +10,25 @@
 
 ---
 
-### 👋 Hi, I'm Muhammad Subhan
+### 👋 About Me
 
-- 🔭 Currently learning **Data Science & Machine Learning**
-- 🤖 Passionate about building **AI Agents**
-- 🐍 Love coding in **Python**
-- 🏢 Working at **Optimum Tech**, Faisalabad 🇵🇰
-- 💞️ Looking to collaborate on **AI & ML projects**
+```python
+class MuhammadSubhan:
+    def __init__(self):
+        self.name        = "Muhammad Subhan"
+        self.location    = "Faisalabad, Pakistan 🇵🇰"
+        self.company     = "Optimum Tech"
+        self.learning    = "Data Science & Machine Learning 🔭"
+        self.passion     = "Building AI Agents 🤖"
+        self.love        = "Coding in Python 🐍"
+        self.looking_for = "Collaborate on AI & ML projects 💞️"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something great 🚀")
+
+me = MuhammadSubhan()
+me.say_hi()
+```
 
 ---
 
