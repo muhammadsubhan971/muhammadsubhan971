@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muhammad%20Subhan&fontSize=42&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descSize=16&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,25:8338ec,50:3a86ff,75:06d6a0,100:ffbe0b&height=200&section=header&text=Muhammad%20Subhan&fontSize=45&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descSize=16&descAlignY=65&descColor=ffffff" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+Agents+🤖;Learning+Data+Science+📊;Writing+Code+%26+Shayari+🖊️" alt="Typing SVG" />
-</a>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF006E&center=true&vCenter=true&width=500&lines=Building+AI+Agents+%F0%9F%A4%96;Learning+Data+Science+%F0%9F%93%8A;Writing+Code+%26+Shayari+%F0%9F–%8A%8F)](https://git.io/typing-svg)
+
+<br/>
+
+![GitHub followers](https://img.shields.io/github/followers/muhammadsubhan971?label=Followers&style=flat-square&color=8338ec)
+![GitHub stars](https://img.shields.io/github/stars/muhammadsubhan971?label=Stars&style=flat-square&color=ffbe0b)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadsubhan971&style=flat-square&color=06d6a0)](https://github.com/muhammadsubhan971)
 
 </div>
 
 ---
 
-### 👋 About Me
+### 🎨 About Me
 
 ```python
 class MuhammadSubhan:
@@ -83,7 +89,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffbe0b,25:06d6a0,50:3a86ff,75:8338ec,100:ff006e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *"جو سیکھتا رہے وہی بڑھتا ہے" 🌱*
 
